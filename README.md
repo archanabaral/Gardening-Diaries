@@ -8,7 +8,7 @@ The following instructions will provide a copy of the project and help running o
 Clone the Repository. Then on project directory
     
 1. Run ```npm install``` to install  dependencies
-2. Run ```npm start``` to runs the app in the development mode.
+2. Run ```npm start``` to run the app in the development mode.
 
 
 ## Built With
